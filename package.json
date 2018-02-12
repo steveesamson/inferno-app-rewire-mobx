@@ -11,8 +11,8 @@
     "babel-plugin-transform-decorators-legacy": "1.3.4"
   },
   "peerDependencies": {
-    "inferno": "^3.10.1",
-    "inferno-mobx": "^3.10.1",
+    "inferno": ">=4.0.2",
+    "inferno-mobx": ">=4.02",
     "mobx": ">=3.3.2 < 4"
   }
 }
