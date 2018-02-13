@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-plugin-transform-decorators-legacy": "1.3.4",
     "inferno": ">=4.0.2",
-    "inferno-mobx": ">=4.02",
-    "mobx": ">=3.3.2 < 4"
+    "inferno-mobx": ">=4.0.2",
+    "mobx": ">=3.3.2"
   }
 }
